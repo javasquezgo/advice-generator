@@ -1,7 +1,10 @@
 import { useState, useEffect } from "react";
 
 function useFetch() {
-  const [advice, setAdvice] = useState({});
+  const [advice, setAdvice] = useState({
+    id: 0,
+    advice: "No one yet!",
+  });
 
   useEffect(() => {
     getAdvice();
