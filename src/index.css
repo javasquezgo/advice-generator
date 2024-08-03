@@ -34,7 +34,8 @@ body {
   background-color: var(--dark-Grayish-Blue);
   width: 75%;
   max-width: 600px;
-  height: 55em;
+  min-height: 450px;
+  height: auto;
   border-radius: 12px;
   display: flex;
   flex-direction: column;
@@ -51,6 +52,7 @@ body {
 
 .advice-text {
   width: auto;
+  height: auto;
   font-size: 3rem;
   text-align: center;
   padding: 0 5rem;
