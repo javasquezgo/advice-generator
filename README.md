@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/javasquezgo/advice-generator
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/javasquezgo/advice-generator]
+- Live Site URL: [https://alejandro-advice.netlify.app/]
 
 ### Built with
 
